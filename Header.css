@@ -1,0 +1,74 @@
+header{
+    
+}
+body{
+    background-color: rgb(red, green, blue)
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+img{
+    padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: rgb(77, 86, 136);
+  }
+.registracioniMeni{
+      float: right;
+      margin;: 20px;
+      padding: 20px;
+  }
+  body{
+      background-image: ;
+  }
+  input[type=text], input[type=password] {
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  .prodaja{
+      margin-left: 100px;
+
+  }
+  .umanjeneSlike {
+    width: 5%;
+    margin-right: 1%;
+    float: left;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.prodaja1{
+    margin-left: 100px;
+
+}
+.umanjeneSlike1 {
+  width: 5%;
+  margin-right: 1%;
+  float: left;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
