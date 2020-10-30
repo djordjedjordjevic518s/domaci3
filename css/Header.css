@@ -42,13 +42,21 @@ ul {
   body{
       background-image: ;
   }
-  input[type=text], input[type=password] {
-    width: 50%;
+  .registracija{
+    float: center;
+  }
+  input[type=text], input[type=password], select {
+    width: 70%;
     padding: 15px;
     margin: 5px 0 22px 0;
     display: inline-block;
     border: none;
     background: #f1f1f1;
+    float: center;
+    margin-left: 50px;
+  }
+  button[type=submit]{
+    margin-left:50px ;
   }
   .prodaja{
       margin-left: 100px;
@@ -75,4 +83,14 @@ ul {
 .akcija{
   margin-left: 100px;
 
+}
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
